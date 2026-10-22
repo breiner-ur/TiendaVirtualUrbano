@@ -1,3 +1,5 @@
+
+           
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -70,27 +72,28 @@
 <body>
     <header>
         <h1>Tienda Virtual</h1>
-        <p>Tienda en liena para que compres todos tus productos</p>
+        <p>Tienda en linea para que compres todos tus productos</p>
     </header>
-    <nav>
-        <a href="/">Inicio</a>
+    <nav>  
+        <a href="#">Inicio</a>
         <a href="/productos">Productos</a>
-        <a href="#">Categorias</a>
-        <a href="#">Contacto</a>
+        <a href="#">Categoria</a>
+         <a href="#">Contacto</a>
     </nav>
     <main>
-        <section class="Bienvenida">
-            <h2>Bienvenido a mi Tienda</h2>
-            <p>
-                Encuentra los mejores productos en un solo lugar
+        <section class="bienvenida">
+            <h2>Bienvenido a nuestra tienda virtual</h2>
+            <p> Encuentra los mejores productos
+                en un solo lugar
             </p>
             <a href="/productos">Ver Productos</a>
+
+
         </section>
     </main>
     <footer>
-        <p>
-            2026 Tienda Virtual - Todos los derechos reservados
-        </p>
+        <p> 2026 Tienda Virtual - Todos los derechos reservados</p>
     </footer>
+    
 </body>
 </html>
