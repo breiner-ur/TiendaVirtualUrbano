@@ -14,19 +14,19 @@
 
         body {
             margin: 0;
-            font-family: Arial, sans-serif;
-            background-color: #f5f5f5;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            background-color: #fd9f9f;
         }
 
         header {
-            background-color: #222;
-            color: white;
+            background-color: #623b3bee;
+            color: whitesmoke;
             padding: 20px;
             text-align: center;
         }
 
         nav {
-            background-color: #333;
+            background-color: #b4a1a1;
             padding: 15px;
             text-align: center;
         }
@@ -44,16 +44,17 @@
         }
 
         .bienvenida {
-            background-color: white;
+            background-color: whitesmoke;
             padding: 40px;
             text-align: center;
             border-radius: 10px;
+            color: red;
         }
 
         .boton {
             display: inline-block;
-            background-color: #007bff;
-            color: white;
+            background-color: #b4a1a1;
+            color: whitesmoke;
             padding: 12px 25px;
             text-decoration: none;
             border-radius: 5px;
@@ -64,8 +65,8 @@
             margin-top: 50px;
             padding: 20px;
             text-align: center;
-            background-color: #222;
-            color: white;
+            background-color: #b4a1a1;
+            color: whitesmoke;
         }
     </style>
 </head>
@@ -86,7 +87,7 @@
             <p> Encuentra los mejores productos
                 en un solo lugar
             </p>
-            <a href="/productos">Ver Productos</a>
+            <a href="/productos" class ="boton">Ver Productos</a>
 
 
         </section>
